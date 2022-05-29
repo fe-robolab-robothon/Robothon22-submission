@@ -17,7 +17,7 @@
   - PyQt5
 
 # Quick start guide
-**A longer quick start guide and detailed instructions can be found in _documentation.pdf_.**
+**A longer quick start guide and detailed instructions can be found in [documentation.pdf](https://robolab.si/wp-content/uploads/2022/05/documentation.pdf).**
 1. Clone https://github.com/fe-robolab-robothon/robothon-GUI-2022
 2. Copy files from the **robot** directory to the robot controller
 3. cd to the src directory on the computer
